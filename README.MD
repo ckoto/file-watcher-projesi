@@ -12,11 +12,12 @@ Bu araç, Open Source İşletim Sistemleri dersi kapsamında aşağıdaki SecOps
 
 ## 🛠️ Kurulum ve Kullanım
 
+## 🎥 Proje Tanıtım Videosu
+Projenin çalışır halini ve Auto-Test özelliğini buradan izleyebilirsiniz:
+[https://youtu.be/gHIn3lbEc6Y]
+
 Projeyi bilgisayarınıza klonlayın:
 ```bash
 git clone [https://github.com/ckoto/file-watcher-projesi.git](https://github.com/ckoto/file-watcher-projesi.git)
 cd file-watcher-projesi
 
-## 🎥 Proje Tanıtım Videosu
-Projenin çalışır halini ve Auto-Test özelliğini buradan izleyebilirsiniz:
-[https://youtu.be/gHIn3lbEc6Y]
